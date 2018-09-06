@@ -1,6 +1,6 @@
 ## Mermaid plugin for GitBook
 
-Plugin for [GitBook](https://github.com/GitbookIO/gitbook) 3 which renders [Mermaid](https://github.com/knsv/mermaid) diagrams and flow charts detected in the book markdown.
+Plugin for [GitBook](https://github.com/GitbookIO/gitbook) 3 which renders [Mermaid](https://github.com/knsv/mermaid) diagrams and flow charts detected in the book markdown. Updated for Mermaid 8
 
 ### How to install it?
 
